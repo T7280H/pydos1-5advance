@@ -71,8 +71,8 @@ def load_banner():
         pass
 
 class PyDOSCmd(Cmd):
-    prompt = Back.RED + Fore.BLACK + 'PyDOS> ' + Style.RESET_ALL
-    intro = Fore.GREEN + 'PyDOS 1.5 ADVANCED | PYTHON CMD PROJECT' + Style.RESET_ALL
+    prompt = Back.YELLOW + Fore.BLACK + 'PyDOS> ' + Style.RESET_ALL
+    intro = Fore.BLUE + 'PyDOS 1.5 ADVANCED | PYTHON CMD PROJECT' + Style.RESET_ALL
     gulie = Fore.BLUE + 'TO SEE COMMAND TYPE (help)' + Style.RESET_ALL
 
     def preloop(self):
