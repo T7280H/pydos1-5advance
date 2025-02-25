@@ -47,11 +47,10 @@ To install PYDOS, follow these steps:
 1. First, create a folder for PYDOS:
     ```bash
     mkdir Pydos
-    cd Pydos
     ```
 2. Then, clone Pydos from GitHub:
     ```bash
-    git clone <GITHUB_LINK>
+    git clone https://github.com/T7280H/pydos1-5advance.git
     ```
 3. Navigate to the setup folder:
     ```bash
