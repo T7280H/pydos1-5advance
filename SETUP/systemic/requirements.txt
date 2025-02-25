@@ -1,0 +1,8 @@
+colorama
+tdqm
+rich
+psutil
+termcolor
+readline
+pyfiglet
+flask
